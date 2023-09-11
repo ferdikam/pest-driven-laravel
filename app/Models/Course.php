@@ -14,5 +14,4 @@ class Course extends Model
     {
         return $query->whereNotNull('released_at');
     }
-
 }

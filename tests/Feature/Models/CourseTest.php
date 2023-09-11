@@ -4,7 +4,7 @@ use App\Models\Course;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 
 uses(RefreshDatabase::class);
-it('has courses', function(){
+it('has courses', function () {
     Course::factory()->released()->create();
     Course::factory()->create();
 
