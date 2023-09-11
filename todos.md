@@ -2,7 +2,7 @@
 
 ## Guest can
 - [x] see courses overview (page)
-- [ ] see course details (page)
+- [x] see course details (page)
 - [ ] purchase a course
 
 ## Member can
